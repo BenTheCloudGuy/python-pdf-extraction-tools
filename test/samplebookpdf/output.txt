@@ -1,0 +1,779 @@
+Player’s primer
+Gooey Cube, the Gooey Cube logo; the “May all your adventures be 
+sticky…” tag line; the history and depiction of the creation of the Eter -
+niverse and Zyathé; the associated gods and depiction of the planes, the 
+World of Zyathé; the Zyanthuus, the Everflow, and the associated de -
+piction of magic; the Wy’rded World; the Fay’aree; the Thuul; the Myru -
+un; the Sarth; the Goruund; the Aethyr; the Scundruze; and all other 
+original names and descriptions of deities, races, and creatures; and all 
+associated depictions, maps, and descriptions of the world of Zyathé; 
+and the deities and planes, as well as all other associated content are 
+trademarks of and/or copyright by Gooey Cube LLC. All other original 
+product line or product names, brands, logos, and/or identifying marks 
+including trade dress, artifacts; characters, creatures, monsters, sto -
+ries, story threads, storylines, plots, plot lines, poems, songs, thematic 
+elements, character dialogue, activities, events, incidents, calendars,  
+languages, artwork, symbols, layouts and designs, likenesses, depic -
+tions, formats, poses, backgrounds, concepts, themes and graphics, 
+photographic and other visual or audio representations; names and 
+descriptions of characters, spells, enchantments, names, personalities, 
+teams, personas, likenesses and special abilities; places, locations, envi -
+ronments, items, devices, equipment, magical or supernatural abilities 
+or effects, logos, symbols, and graphic designs are property of Gooey 
+Cube LLC. All in-game products and product concepts such as Gobber -
+stones, The Deck of Perilous Fortuity, Zyss, Fool’s Down, Nubs & Lords, 
+Blackdie, Kizmya’s Wheel, and any others not named here are property 
+of Gooey Cube LLC. Any other names, content, artwork, logos, or other 
+associated material not created by Gooey Cube LLC is copyright and/or 
+trademarks of those respective individuals and/or businesses. All ma -
+terial contained herein is a work of fiction. Any depiction, description, 
+or resemblance of any character or location to any actual person (living 
+or dead) or any actual location (past or present) is purely coincidental.
+This material is published under the Open Game License Version 1.0a 
+which is published in the back of this supplement. Any reproduction 
+or unauthorized use of the material or artwork contained herein is 
+prohibited without the express written permission of Gooey Cube LLC. 
+Questions? Please send us an email at Feedback@GooeyCube.com. 
+© 2019 Gooey Cube LLC. 5825 Mark Dabling Blvd., Suite 130, 
+Colorado Springs, CO, 80919 1 The Gods of Zyathé
+ 3 The Peoples of the Wy’rded World
+ 7 Magic in Zyathé
+  8  Geography of the Wy’rded World
+ 11 OPEN GAME LICENSE  
+ Version 1.0aThe “Goo Crew”
+Directed by Alphinius Goo
+Written by AJ Martin, Alphinius Goo, Jeremy 
+Harding, Cody Martin, and Mike Shugart
+Design & Art Direction by Joann Adams and 
+Alphinius Goo
+Edited by Jeremy Harding, Mackenzie  
+Spillane, Mandi McNabb, Mike Shugart,  
+and Cody Martin
+Production Management by Alex Bucher
+Our Incredible Artists
+Cover Art “Strongarm McGillan’s” by  
+Ferdinand Ladera
+Interior Art & Handouts by  
+Pratik Jaiswal, Smashcase, Fábio Perez, 
+Suresh Pydikondala, Igor Kirdeika, Kishore 
+Ghosh, Simon Zhong, Teejay Villahermosa, 
+Tadas Sidlauskas, Malthus Wolf, Ferdinand 
+Ladera, and Vera Zowadova 
+Cartography by Malthus Wolf and SmashcaseTable of 
+ContentsPrologue
+Greetings and welcome to the Player’s Primer for Zyathé, the Wy’rded World! Although this primer 
+gives only the briefest glimpse at everything there is to know about Zyathé, it should be enough to get 
+you oriented and help you recognize the gods, races, lands, and other features that you will encounter in 
+games set in this strange and exciting world. If you’d like to know more about anything presented here, it 
+is explored in much greater detail in Volume One of the Player’s Guidebook.
+The Gods  of Zyathé
+Avova, the Dreamer of the First Dream, created All Things, including the gods to whom he entrusted 
+the governing of all the affairs of life upon Zyathé. He divided the deities into nine different life-views, 
+assigning eight to watch over each. The gods according to their life-views and roles are:
+lawful good gods  
+Daele the Trademaker, god of honest exchange. 
+Evoqe the Bright Lady, goddess of light magic.
+Evrodonn the Forger of Souls, god of crafting and smithing.
+Radean the Lightbringer, god of light and the day.
+Steorn the Valorous, goddess of rescuing.
+Viana the Lifegiver, goddess of agriculture.
+Wardane the Guardian, god of protection.
+Zendraca the Truespeaker, goddess of truth and good dragons.
+neutral good gods  
+Aeliera the Panacean, goddess of healing. 
+Buffahn the Lord Concoctor, god of libations and brewing.
+Cara’essea the Lovemaiden, goddess of love and family.
+Davodandalus, Lord of the Pipe, god of relaxation.
+Fuffahn the Joylord, god of celebrations and festivals. 
+Grambaer the Alpenlord, god of the mountains.
+Rhythema the Worldsinger, goddess of music and art.
+Suleos the Springlord, god of youth and athleticism.chaotic good gods  
+Aquera the Waterbearer, goddess of the waters. 
+Beundel’a, Lord of Lightness, god of whimsy and fun.
+Brannad, Lord of Roguish Ways, god of contrarianism and 
+independence.
+Buurne, Bearer of the Great Burden, goddess of sorrow and 
+remembrance.
+Haleona the Freedomringer, goddess of liberty.
+Jinxx the Courtdancer, god of performance and subterfuge.
+Kizmya, Lady Luck, goddess of good fortune.
+Morvenea, Lady of the Nightdream, goddess of dreams and 
+introspection.
+lawful neutral gods  
+Caovern the Fathomlord, god of the deep reaches.
+Cassendre’a, Lady of Autumn, goddess of preparedness.
+Decisae, Lady of Law, goddess of regulation and order.
+Falnea’lasa the Bowmistress, goddess of the hunt.
+Ize, Lord of Sweat, god of work and labor.
+Korumm the Great Champion, god of honorable battle.
+Laern the Old Sage, god of knowledge and teaching.
+Ozogg the Mighty One, god of strength and Giantkind.
+1slayye  
+Symbol: Crossed Wicked-Looking Daggers
+beundel’a  
+Symbol: The Golden ButterflyTh e Go d s  o f Zy aTh é
+true neutral gods  
+Bruntov, Lord Lapidar, god of gem cutting and crafting. 
+Duezz the Judgement, god of justice and judging.
+Elchema, Queen of Formulae, goddess of alchemy and herbology.
+Harmonea, Lady of Peace, goddess of peace and agreement.
+Infeorni the Burning One, god of raw magic.
+Kaakeon the Waylord, god of travel and trade.
+Quisis, Lady of All Truths, goddess of honesty and balance. 
+Verdaus the Forestlord, god of wild nature.
+chaotic neutral gods  
+Chanze the Lord Dealer, god of gambling. 
+Conundruse the Mad god, god of ingenuity and error.
+Efflume, Lady of Flame, goddess of fire and heat.
+Glastria the Ice Queen, goddess of cold and wind.
+Mystos the Secretlord, god of magic and prophecy.
+Skaleana the Cold-Blooded Lady, goddess of swamplands, 
+natural selection, and the Algidian races.
+Taroneus the Beastlord, god of animals.
+Zind, Lord of Invention, god of innovation and creativity.
+lawful evil gods  
+Azemundus the Tyrant, god of slavery and despotism.
+Craven the Dark Depths, god of secret ways and lightless depths. 
+Dracondra, Lady Vile, goddess of vengeance and evil dragons.
+Durronok the Warcaller, god of bloodlust and violence.
+Gotrundle the Lord Schemer, god of wicked machinations.
+Iltrathea, Queen of Venoms, goddess of poison and narchemy.
+Mal’uthuk the Director of Souls, god of death.
+Taormenta the Excruciator, goddess of torture.neutral evil gods  
+Curzeos the Vulgar, god of profanity and curses. 
+Di’scorduun the Strifelord, god of hatred and contention.
+Drunge the Untrue, god of larceny and dishonest business.
+Gloome the Sneak, god of unseen trespasses and lies.
+Haggash the Dark Dancer, god of evil joys and bitterness.
+Shaenassa the Desired One, goddess of wicked desires and 
+shallow licentiousness.
+Sliithe the Usurper, god of arrogance and illegitimate power.
+Slooje the Rotmaker, god of sickness, decay, and rot.
+chaotic evil gods  
+Bletchundruuk the Edacious One, god of indulgence, glut -
+tony, and obsession. 
+Contravic the Stormcaller , god of disasters, storms, and nat -
+ural destruction. 
+Duneara the Nightbringer, goddess of night and shadow.
+Norcreus the Unresting, god of undeath.
+Scrave, Lord of the Gutter, god of filth and the patron of the 
+Ratfolk and the Scrunge.
+Sha’aada the Darkwalker, goddess of dark magic.
+Slayye the Deathdealer, god of murder and assassination.
+Szilk, Lady of the Underdelve, goddess of predation and 
+dark creatures.Th e Go d s  o f Zy aTh é
+Th e Races of zyathé
+AvovA desired that Zyathé should be filled with many different peoples to enjoy and make use of the 
+incredibly varied landscapes he had created. Yet he also wished for his creation to emulate his essential 
+nature, so he entrusted the gods with the task of bringing forth peoples of their own. As a model for 
+their labors, he placed Humankind upon Zyathé. The gods succeeded in creating many new races; some  
+remained sequestered away in remote regions, but many spread across the world and thrived.
+3Th e R a c e s  o f Z y aTh é
+the sarth  
+Sarth are a tall, lean folk with skin that ranges from warm 
+tones of orange to amber, thick dark hair with a purple hues, 
+and pink or blue eyes. Most are remarkably fast and quite 
+physically fit. Sarth have a strange reputation as savage-
+ly violent and primitive in some regards, while also being 
+amongst the most refined and intellectual races in others. 
+They are also well known for the fact that they are completely 
+incapable of using arcane magic.
+the myruun  
+Myruun are a somewhat shorter people with smooth, rub-
+bery skin of teal or gray-green, wavy white hair, and large 
+golden eyes. They are most at home on the seas, lakes, and 
+rivers of Zyathé, with a substantial portion of their popula-
+tion engaged in fishing, the sea trade, and other waterborne 
+professions. They are quite temperamental, prone to rapid 
+swings in mood, but rarely holding grudges as a result. Most 
+demonstrate a fierce dedication to their craft, while being 
+almost flippant regarding most other subjects.
+the noble fay’aree  
+Noble Fay’aree are short and delicate folk with remarkably 
+large eyes and long ears – which others typically find both 
+strange and beautiful. There are two feuding houses of this 
+race, known as the Light Seelie and Dark Unseelie courts. 
+The Seelie Fay’aree are golden skinned with auburn or pink 
+hair and small, antler-like horns atop their heads. The Un-
+seelie by contrast have skin like dark silver, with light blue or 
+white hair, which is parted by small, curled horns like those 
+of a ram. Both kindreds are playful and mischievous lords of 
+the woodlands, but the Light Fay’aree are friendly and help-
+ful, while the Dark Fay’aree are cruel and malicious.
+the goruund  
+Goruund are extremely large folk, both tall and broad. They 
+are heavily muscled and have strong, chiselled features, with 
+dark blue-black skin, orange or yellow eyes, and light blue 
+to slate gray hair. Almost all Goruund live amongst moun-
+tain peaks in small, tightly-knit communities. Goruund have 
+remarkably long lives and excellent memories, which often 
+gives them a deliberate, cautious attitude when compared 
+to other races. Surprisingly to outsiders, Goruund have a re-
+markable natural talent for singing, and musical harmony in 
+general, which they use to commune with their patron gods 
+and the spirits of the natural world.
+the aethyr  
+Aethyrians are similar in stature and appearance to Hu-
+mans, though with a stronger propensity for soft, delicate 
+features. They are at greater variance in coloration, with hair, 
+skin, and eyes all commonly found in shades of light blues, 
+pale violets, and silvery-whites. They are well known for their instinctive command over wind and air and typically live a 
+nomadic lifestyle, whether as a small pastoral clan or in one 
+of their great migrating cities. Their culture is matriarchal 
+in structure, and is governed by a strict, complex hierarchy 
+of social obligations. Many Aethyr serve as merchants and 
+traders, and they are famed for their creation of the magnif-
+icent sky-ships.
+humans  
+Humans were the only race created by AvovA, and were held 
+as an example and inspiration for the gods in the creation 
+of their own peoples. In their youthful arrogance the new -
+ly birthed deities believed that they could surpass the works 
+of their maker, and their labors were indeed impressive and 
+quite pleasing to AvovA. Nevertheless, Humankind proved to 
+still be the most dynamic and adaptable of peoples on Zyathé, 
+and as such is the most numerous, widespread, and diverse 
+race on the Life World. Distinct Human ethnicities have aris-
+en on each of the major continents, each of which has further 
+diversified and spread across the world to create a nearly un-
+countable array of Human, and half-Human, communities.
+half-orcs  
+Half-Orcs are the children of Humans and Orcs, and typically 
+favor their Orcish ancestry in displaying prodigious strength, 
+pronounced jawlines, and bold facial features. Their skin can 
+vary considerably in color, from green to gray to chestnut, 
+while yellow eyes are most common, and their hair tends to-
+wards dark red or brown. Half-Orcs often struggle to make 
+their way in the world, usually distrusted by Humans and 
+other “civilized” races, while being oppressed and exploited 
+by Orcs. In spite of these hardships, many Half-Orcs learn to 
+control their fury and find a place in society, or else channel it 
+and demand respect when it isn’t given willingly.
+half-ogres  
+Only Goruund are likely to overshadow the towering stature 
+of Half-Ogres in settled lands. Bulky and strong like their pro-
+genitors, they typically have a dusky tan or gray complexion, 
+crowned with thick but patchy black or brown hair. Many as-
+sume that their heavy features indicate a brutish and simple 
+mind, but this is commonly a cruel and inaccurate supposi-
+tion. As such, they must perpetually prove themselves to be 
+more than dangerous savages.  
+high elves  
+Once the epitome of refinement and culture, the High Elves 
+have fallen far from the heights of glory they once held. Nev -
+ertheless, their stunning appearance remains undiminished. 
+Most are slightly shorter than Humans, but their fine, pale 
+features are framed by silver or golden hair and adorned with 
+gem-like eyes. Almost all have shapely figures, and bear the 
+distinctive pointed ears common to all Elven folk. Most peo-
+4Th e R a c e s  o f Z y aTh éTh e R a c e s  o f Z y aTh é
+5
+ple of other races cannot help but feel awe in their presence. 
+Small, scattered bands of High Elves remain true to their 
+resplendent past, but for most their attractive appearance 
+hides the disdain, bitterness, and malevolence that have con-
+sumed their souls.
+wood elves  
+Noticeably shorter than their High Elven cousins, Wood Elves 
+have a similarly charming appearance, though they usually pos -
+sess a much more approachable bearing. Their skin is usually a 
+light green shade, reflecting the colors of their sylvan homes. 
+Their hair is typically blonde or copper, while their eyes are a 
+piercing, deep green or blue. Some describe them as almost 
+childlike or Fey in appearance, and in the latter case they are 
+correct, as all Elves, and the Wood Elves in particular, are rel -
+atives of the Fay’aree. Also like that mischievous kindred, they 
+generally prefer to remain beneath the boughs of their wood -
+land homes, but the Wood Elves are much more welcoming of 
+outsiders and more frequently venture out into other lands.
+dark elves  
+Long ago entrusted to the care of cruel and wicked gods, the 
+Dark Elves have been shaped in body, mind, and soul by many 
+ages of depredation. Their skin ranges from dark purple to 
+deep gray, easily blending into the gloom of the Underdelve 
+where they dwell. Their hair and eyes strongly contrasts with 
+this dark coloration, with white, silver, or amber locks and 
+burning red, yellow, or orange irises. In spite of these unusu-
+al hues, they retain the same regal features of their cousins, 
+often catching outsiders that expect evil creatures to have 
+crooked, ugly appearances off-guard. However, they rarely 
+fail to disappoint in living up to their reputation for cunning 
+enmity and sadistic barbarism.ordrin  
+Ordrin are descended from Elves and Orcs,  two lineages that 
+could scarcely be more different. Oddly, this unusual mixing 
+often creates an appearance that people of almost all races find 
+remarkably attractive. As the hair, eye, and skin color of both 
+Elves and Orcs can vary quite widely, it is not surprising that 
+Ordrin display significant diversity in such features, though 
+almost all have large, prominently pointed ears and lean, ath-
+letic frames.  Similarly, Ordrin can vary widely in personali-
+ty, though a strong temper is commonly inherited from the 
+Oricsh side of the family. In Orc chiefdoms, Ordrin are rarely 
+distinguished from Half-Elves, while in other societies they 
+receive a mixture of disdain for their ancestry and admiration 
+for their stunning looks.
+crown dwarves  
+Crown Dwarves are a sturdily built folk, typically standing 
+four to five feet tall. Their skin is most often a rich earthy 
+tone, with brown, golden, or green eyes and blonde or auburn 
+hair, including the distinctive Dwarven trait of prodigious 
+beards kept by most males. Most are characterized as stub-
+born, ambitious, dependable, and hardworking to the point 
+of obsession. Quite likely they are the second most populous 
+and influential people on Zyathé after Humankind, a position 
+they reached due to their prudence and natural wariness in 
+the years preceding the Woe of Ruin. Their dedication to pre-
+cision and quality has seen their standards for measurement, 
+coinage, and even law widely adopted across the world.
+deeping dwarves  
+The Deeping Dwarves are fairly similar in stature to their cous -
+ins the Crown Dwarves, but typically stand a few inches shorter, 
+and tend towards stonier grays rather than warm earth tones Th e R a c e s  o f Z y aTh éTh e R a c e s  o f Z y aTh é
+in skin color. They usually sport beards that are as impressive 
+as the Crown Dwarves, though their hair ranges into colors like 
+blue or purple. In character they seem to have a similar dispo -
+sition as well, but taken to dark extremes. They are arrogant, 
+neurotic, and cruel, but remain industrious and skillful. No 
+other civilized races are known to probe as deeply into the ut -
+termost depths of the Underdelve as the Deeping Dwarves, and 
+they are quite pleased with the secrecy this provides for their 
+activities, whether innocuous, or thoroughly wicked.
+high gnomes  
+High Gnomes are, in spite of their name, one of the shortest 
+races on Zyathé, rarely reaching over three and a half feet tall. 
+Their light blue-gray skin contrasts strikingly with their cop-
+pery-red hair, eyebrows, and for many males, beards, which 
+are all invariably styled in outlandish and amusing ways. 
+Their reputation as eager – if slightly unhinged – tinkerers, 
+inventors, and innovators is well earned, ensuring they re-
+ceive a cautious but genuine welcome almost anywhere they 
+go. Though many struggle with a short attention span, High 
+Gnomes are often friendly, outgoing, agreeable, and easily ex -
+cited – a bright reflection of their dark relatives.
+dark gnomes  
+For those not particularly familiar with Gnomish folk, Dark 
+Gnomes can be difficult to distinguish visually from High 
+Gnomes. They share similar gray skin and red hair, though in 
+both cases they tend towards somewhat darker shades than 
+their earnest relatives. It is in conduct where the two lineages 
+vary much more significantly. The Dark Gnomes are no less 
+clever or inventive, and are surprisingly sociable given their 
+other predilections, but their talents are consistently applied 
+towards causing malicious mischief and deadly antics. Such devilry is directed against others where possible, but even 
+friends and relatives of their own kind are rarely spared if bet-
+ter targets are not available.
+halflings  
+Halflings usually stand between three and four feet tall, and 
+naturally tend towards a portly build. They have curly hair of 
+red or blonde, which is matched by hairy patches atop their 
+feet. Their skin can range from pale to a dark tan, though al-
+most all have an abundance of freckles. Halfling eyes are large 
+for their size, and can be found in many different colors. Hal-
+flings have an abiding love of peacefully working the land, 
+growing crops and raising livestock during the day, while 
+putting on many celebrations and taking their ease in the eve-
+nings, on weekends, and across many holidays throughout 
+the year. Many are struck with a driving wanderlust at some 
+point in their life, but gladly return to their agrarian lifestyle 
+after whatever adventures they find in the wider world.
+soflings  
+Soflings are very much of a kind with their Halfling relatives, 
+bearing similar proportions and features, including the char -
+acteristic hairy feet. They differ in often having much darker 
+skin, hair and eyes, but unlike many races that were split into 
+rival tribes in ancient times, the Soflings and Halflings remain 
+amiable towards one another, and tend to have broadly similar 
+personalities. The Soflings have developed a distinct culture 
+in one regard, fully embracing the nomadic urge within them 
+to perpetually move from town to town. Although they collect 
+a dizzying array of friends, lovers, business partners, posses -
+sions, and properties in their travels, nothing seems to weigh 
+them down. They endlessly trade their goods, deeds, and con -
+tacts amongst short-term acquaintances with casual ease.
+67Magic  in Zyathé
+Magic suffuses every aspect of Zyathé, having been used by AvovA to create the gods, the world, and everything upon and 
+within it. The peoples of Zyathé conceive of magic as a great surging river of power known as the Zyanthuus, or more com -
+monly, the Everflow, that runs over and through all of creation. There are many traditions and methods used by the mortal 
+races to tap into the incredible power of the Everflow, but it remains outside the reach of the vast majority of people.
+the everflow  
+The Everflow, or Zyanthuus, is the abstraction of arcane power 
+used by scholars and magic users to discuss the nearly unfath -
+omable source of magic. It was once, when AvovA used it to cre -
+ate All Things,  a single unified flow of varied aspects. However, 
+in the ensuing millennia, calamities befell which threatened to 
+destroy the Everflow, and it was divided into three primary sub -
+flows to stabilize it and preserve the order of the world. These 
+are The Viviflow, the Prysmaflow, and the Umbraflow. Although 
+now separated, mages frequently still call upon the power of 
+all three flows in some capacity while casting their spells. The 
+power of the Everflow has waxed and waned throughout histo -
+ry, but access to even a tiny sliver of its power  has played a vital 
+role in virtually every society established upon Zyathé.
+the viviflow  
+The Viviflow, also known as the Brightflow or Luminuus, is 
+the source of Light Magic. This flow is associated with light, 
+life, growth, healing, and creation. It is strongly concentrated 
+within all living things, and in sources of light like the Sul. The 
+followers of Good deities, and those that seek to build up and 
+spread civilization favor its use.
+the prysmaflow  
+The Prysmaflow, also known as the Wildflow or Ferauus, is the 
+source of Raw Magic. It is the flow concerned with balance, per -
+manence, and the natural cycles of the world. It pools in stones, 
+soil, bodies of water, and anywhere the wilderness remains 
+largely unspoilt. The Prysmaflow mediates a careful harmony 
+between the Viviflow and the Umbraflow, creating an equilibri -
+um where the other, much more ephemeral flows may coexist. 
+It is favored by followers of Neutral gods, as well as those like 
+Druids that venerate the wilds, and by arcane magic users like 
+Wizards that do not overly concern themselves with the moral -
+ity and philosophy of their spellcasting. 
+the umbraflow  
+The Umbraflow, also known as the Shadowflow or Dunauus, is the 
+source of Dark Magic. It is the stream that embodies darkness, 
+entropy, death, cessation, and dissolution. It tends to concentrate 
+in graveyards, battlefields, swamps, sewers, and dark caverns far 
+beneath the surface. The adherents of Evil gods understandably 
+favor the Umbraflow, but there are many less devoted spellcasters 
+that revel in destruction that specialize in its use.flowstones  
+Flowstones are rare objects that have their origin in a time 
+known as the Woe of Ruin, when magic flowed unconstrained 
+across the world. These mineral deposits seem similar in ap -
+pearance to other gemstones at a casual glance, but are infused 
+with potent magic. In their raw form they are extremely haz -
+ardous, causing unpredictable maladies in those that spend 
+longer than a few moments in close proximity to them. It is 
+even more dangerous to attempt to shape them, potentially un -
+leashing deadly blasts of inchoate arcane power, but this per -
+ilous task is required to transform them into a useable form. 
+Uniquely among the peoples of Zyathé, the Sarth are insensate 
+to arcane magic, yet this seems to also grant them immunity to 
+the deleterious effects of raw flowstones, and associated haz -
+ards  of the cutting process. Once a flowstone has been safely 
+cut, it can be utilized to grant a wide variety of magical effects 
+when ensconced in an appropriate item – depending on the 
+color, clarity, and shape of the stone among other factors. The 
+Sarth, meanwhile, have learned to expand upon these proper -
+ties to create their own form of spellcasting.
+the blood-touch  
+There is a small but significant number of individuals, perhaps 
+one out of every few hundred, found in all lands and among 
+all races, that were touched by an errant tributary of magi -
+cal power before their birth. This phenomenon is known as a 
+Blood-Touch, and it manifests seemingly without following any 
+coherent law of gods or nature. It is not passed down from par -
+ents to children, and is not more prevalent among any particu -
+lar race, class, or gender. The effects of a Blood-Touch typically 
+consist of signs both physical and magical, and are usually tied 
+to a particular source, such as one of the four elements or a spe -
+cific kind of creature, such as dragons or trolls. However, these 
+sources remain extremely varied. In most lands, Blood-Touches 
+are poorly understood and highly feared, immediately turning 
+almost anyone that displays visible indications of one into an 
+outcast. Some that have less obvious discolorations or growths 
+attempt to hide them, while all must struggle to control the un -
+expected powers that plague them. Some manage the stressful 
+task of blending into society, while many are simply pushed to 
+the margins as pariahs, and still others leave to join the travel -
+ing association of Blood-Touched carnival performers known 
+as the Hanataz. 8th e Continents of Zyathé
+Zyathé is a world covered in vast oceans that separate inhabitable lands into several distinct continents. 
+Many similar plants, creatures, and environments can be found spread across multiple continents, but 
+many others are singularly found in a particular region, and each landmass possesses many unique quali -
+ties. Even though there have been several periods of widespread trade, migration, warfare, and other forms 
+of ongoing global contact, each continent has also developed numerous indigenous cultures and traditions 
+that are shaped as much by their homeland and history  as interactions with others from distant nations.
+verdestia  
+Verdestia is a comparatively cool, temperate continent, covered 
+in rugged mountains, deciduous forests, cold bogs, rolling hills 
+and verdant farmland. It was once a single landmass, but was 
+split into a western and an eastern half when its central low -
+lands were flooded during the Woe of Ruin. Politically it is split 
+between a number of rival sovereignties, republics, and aspiring 
+empires, all of which must contend with Orokonoid raiders and 
+invaders sailing down from Nordrukka to the north. Halflings 
+are natives of Verdestia, but nearly all races have communities 
+upon its shores, and it serves as a cosmopolitan hub for global 
+exploration and exchange.
+sundestia  
+Sundestia is a large, hot continent to the south of Verdestia. Its 
+western half is well populated and teeming with life, split be -
+tween expanses of humid jungle, windswept plains, and fertile 
+river basins. The northwest in particular is split between sev -
+eral feuding nations, and is home to a wide variety of different 
+peoples. Humans are believed to have originated on Sundestia, 
+while Soflings are also famous inhabitants of its remarkably 
+warm lands. The eastern half of the continent is separated from 
+the rest by a massive mountain range, which contains many vol -
+canic peaks. On the far side is the bizarre and deadly Du’unsar -
+ra Sea, which consists of a vast expanse of a dark mineral sub -
+stance, known as murkcrystal. This ‘sea’ is nearly as large as the 
+other half of Sundestia, but can only be crossed in specialized 
+sailing vessels, as the fine dust acts like a liquid rather than con -
+ventional dunes of sand, and any creature unfortunate enough 
+to fall into it swiftly sinks to unknown depths.
+nordrukka  
+Nordrukka is the coldest of the non-polar continents, situated 
+between Verdestia and the frigid shores of Ablume. The coastal 
+regions maintain hardy prairies, rugged pine forests, and sur -
+prisingly temperate fjords, while the interior rises through tun -
+dra and barren hills into a spine of snow-capped mountains that 
+run the length of the continent. Despite its generally harsh cli -mate, Nordrukka manages to sustain a significant population, 
+primarily of the native Orokonoids and Gargantuan races, but 
+with significant numbers of other races that have primarily been 
+taken as slaves from other lands. Skirmishes over the best terri -
+tories are nearly constant between the Chiefdoms that compose 
+Nordrukka’s political landscape. Few of these last more than a 
+handful of generations, and their influence can change dramat -
+ically in that time, but there are always eager warlords ready to 
+stake their own claims when old regimes collapse.
+estrenia  
+Estrenia is the largest of the northern continents, and lies to the 
+east of Verdestia and Nordrukka. Although the northerly regions 
+are quite cold, the rest of the continent is relatively warm for 
+its latitude. Quite geographically diverse, Estrenia has deserts, 
+steppes, marshes, and many other features, but is dominated by 
+vast forests and some of the most fertile plains on Zyathé. These 
+rich fields feed a significantly larger population than any other 
+continent, with more than enough left over to trade abroad and 
+store in reserves for hard times. Estrenia is the native homeland 
+of the Aethyrian race, who wander the eastern steppes. The rest 
+of the continent is dominated by a few large empires that each 
+consist of a number of different peoples and cultures.
+zustrenia  
+Zustrenia is a sizable continent to the south of Estrenia and east 
+of Sundestia. Except for its southern reaches it is a hot and hu -
+mid land, though still somewhat milder than its neighbor Sun -
+destia. It has scorching deserts and wet lowlands covered in tall 
+grass, but the majority of the landmass is covered in dense for -
+ests and jungles. The Sarth people are native to Zustrenia, while 
+Humans and many other races common to the other continents 
+are only relatively recent arrivals to its shores. The Sarth primar -
+ily live in a central valley that is surrounded by tall mountains, 
+while the new colonists have formed several city-states around a 
+large bay in the northeast. Magical corruption has recently been 
+spreading along the western coast, almost certainly originating 
+from nearby Cruxxe.9zinn  
+Zinn is a small continent to the south of Zustrenia. Its northern 
+region is covered in jungle, while the center is thought to be tem -
+perate, and the south is likely quite cold. However, it is difficult 
+to discern the continent’s characteristics with much certainty; 
+the seas around it are exceptionally treacherous and seem to 
+turn ships away with strong currents and strange winds when 
+not sinking them outright. Those few that have managed to land 
+on its shores are often beset with crippling diseases, and expe -
+ditions away from the coast rarely return. As such, it remains a 
+mystery to most, and has few permanent residents, or at least 
+there are few known to the outside world.
+cruxxe  
+Cruxxe is a relatively small continent situated centrally upon 
+Zyathé, and was once the home of the mythic, world-spanning 
+Ethernic empire. In those days it was the most pleasant region 
+in the world, and possessed perfectly tended habitats suitable 
+for plants and creatures from across Zyathé. However, it is now a 
+blasted wasteland. Few dare approach it, and fewer still return to 
+speak of their experiences there, leaving its current state shroud -
+ed in secrecy. None but monsters and abominations live upon its 
+shores, while rumors speak of magical anomalies and seemingly 
+impossible arcane ruins, but such things will remain trapped in 
+the realm of speculation and tall tales as long as Cruxxe contin -
+ues to be so lethally inaccessible.ablume  
+Ablume covers the northern pole of Zyathé. It is a sizable land -
+mass that is largely cloaked in snow and glaciers, though some 
+of the coastal areas are just warm enough in the short summer 
+months to support some robust grasses and shrubs. Animal life 
+is similarly sparse and hardy, while settlements are mostly small 
+villages. Some nearby islands are marginally more inhabitable, 
+with the largest bearing the only city deserving of the name, 
+which is populated by mixed-race outcasts of other lands, pri -
+marily from Nordrukka. Adventurers come seeking hidden trea -
+sures in the endless fields of white, but many succumb to the 
+punishing blizzards, and most that survive leave empty handed.
+sublume  
+Sublume stretches across the southern pole of Zyathé. It is a 
+large continent, and is quite similar to its northern counterpart 
+in many ways. However, its coastline is somewhat warmer and 
+more expansive, allowing for tracts of tundra that support more 
+flora and fauna, as well as a number of barbarian tribes. Several 
+varieties of Giants clash among the volcanic mountains further 
+inland, and scattered geothermal vents create small oases of life 
+amongst the trackless desolation. Many species of animals thrive 
+and spread across the continent in vast colonies, usually relying 
+upon the abundance of the sea for food. Rumors persist of a lost 
+civilization secreted away somewhere upon Sublume, drawing 
+many prospective explorers, but definitive evidence of it exis -
+tence have yet to be found.
+Ablume
+Estrenia
+Zustrenia
+Sublume
+Cruxxe
+Nordrukka
+Verdestia
+Sundestia
+Zinn10A CLOSER LOOK: 
+SOUTHERN ZYRANTHEA
+The first published Gooey Cube adventure series, the 
+Red Star Rising campaign, primarily takes place in the 
+southern half of the Zyranthean Republic, a nation situ -
+ated on the western coast of the continent of Verdestia. 
+Although this region will be explored extensively in the 
+upcoming second volume of the Cyclopaedia Zyathica: 
+West Verdestia, this primer will give a brief glimpse into 
+the notable features and locations of the region.
+The jagged spire known as Mu’uz Derron rises near the 
+center of the Zyranthean Republic, and is visible for hun -
+dreds of miles around. Often used as a distant point of 
+reference by travelers, the peak and surrounding hills 
+are avoided by all sensible folk. Barren badlands extend 
+for leagues around the strange rise, and the waters of the 
+Murkflow river that descends its flanks are tainted with 
+dark magic. Though many have forgotten or proposed al -
+ternative explanations, the true origin of Mu’uz Derron is 
+not entirely lost to history. The Ethernic city of Selenstiiril 
+once graced the skies of Verdestia, but with the coming of 
+the Woe of Ruin it fell to the earth far below like so many 
+other marvels of that age. However, unlike many of the 
+other floating cities, Selenstiiril turned completely over as 
+it fell, burying the city deep in the ground while leaving its 
+stony foundation a newly formed mountain piercing the 
+skies of what would become the Republic in later days.
+Although Mu’uz Derron is the most distinctive feature upon 
+the landscape of Zyranthea, several others have consider -
+able influence in shaping the lives of its inhabitants. Black -
+rot Bog and Maggospit Marsh are two large quagmires 
+which lie at the periphery of the Republic. The former re -
+ceives the befouled runoff of the Murkflow, causing weird 
+arcane anomalies and attracting foul, mutated creatures to 
+its depths. Meanwhile Maggotspit remains relatively hale, 
+but has almost no dry paths or navigable waterways, and is 
+inhabited by territorial Algidians and other, more unusual 
+creatures. Although many simply try to avoid these bayous, 
+one of the major roads through the south is forced to pass 
+through Blackrot Bog, while Maggospit Marsh is not far 
+from either of the two major Zyranthean ports, Darken -
+haven and Wavecrest, and its inhabitants have been known 
+to stray into the surrounding countryside.
+The Wyrmrest Mountains also act as a significant barrier, 
+defining the entire eastern border of the Republic. These 
+tall summits are well named, as they are home to nu -
+merous dragons and their lesser kin, among many other 
+creatures and monsters. Though several notable Dwarven 
+cities exist at the base of the mountains, and often guard accompanying roads through the Underdelve to the other 
+side, the Wyrmrests remain a  notable, and often danger -
+ous, boundary for the people living in the area. This haz -
+ardous frontier is compounded in its difficulty by the pres -
+ence of the Feywyrd Forest, which begins in the foothills of 
+the range but extends for many miles to the west. Although 
+many smaller woodlands dot the land, the Feywyrd is large 
+and ancient, full of deadly beasts and fonts of magic that 
+seem to warp the flow of time. However, most significant -
+ly, it is claimed by the warring Seelie and Unseelie Courts 
+of the Fay’aree. Although the Light Fay’aree are not hostile 
+to outsiders, few can endure their relentless mischief, and 
+the ongoing war with their dark cousins has made the en -
+tire forest a dangerous place for travelers.
+By contrast, the rivers that run through the Republic often 
+act as highways as much as obstructions. There are many 
+waterways that crisscross Zyranthea, but the one that runs 
+through the heart of the nation, both literally and figurative -
+ly, is the Mystrune. This large river is fed by several smaller 
+tributaries, and runs from north of the influential Dwarven 
+city of Trundadelve in the northeast, through the country -
+side and beside several significant cities. It continues to its 
+breathtaking finish, where it rushes through the canals of 
+the capital Darkenhaven and cascades over the cliffs where 
+it joins the Mystranic ocean and the Undercurrent welling 
+up from deep below in the cavernous Dunport beneath the 
+city. The Mystrune acts as a vital link for trade and commu -
+nication between the various member cities of the Republic.
+As a republic, Zyranthea is largely defined by its member 
+city-states. A significant number of these are located in 
+the north and east, but as noted above, the grand capital 
+of the nation, Darkenhaven, sprawls along the southwest -
+ern coast. Countless ships continually pass through the 
+unique harbor, known as the Dunport, which is located 
+in the massive caverns beneath the city. People from all 
+across Zyathé may be found in the bustling marketplaces 
+of the city, where exotic goods from every continent are 
+available, for the right price. The other two major cities of 
+the south are Sundruun and Sundervulden, both located 
+near the border with Andvalla. Sundruun is, in many ways, 
+an outpost of decadent Andvallan culture and customs 
+within the Republic, having broken away to join the pros -
+perity of Zyranthea during a period of weakness for the 
+old queendom of the south. Not far to the east is the other 
+large Dwarven city of the Republic, Sundervulden. Though 
+somewhat smaller and younger than Trundadelve, it is 
+rapidly expanding and promises to produce many riches, 
+both for its mining guilds and the wider nation.Ge o Gr a p h y  o f Th e W y’r d e d  W o r l dOPEN GAME LICENSE Version 1.0a
+ 
+The following text is the property of Wizards of the Coast, Inc. and is Copyright 2000 Wizards of the Coast, Inc (“Wizards”). All Rights Reserved.
+ 
+1. Definitions: (a)”Contributors” means the copyright and/or trademark owners who have contributed Open Game Content; (b)”Derivative Material” means copyrighted material including derivative works and translations 
+(including into other computer languages), potation, modification, correction, addition, extension, upgrade, improvement, compilation, abridgment or other form in which an existing work may be recast, transformed or 
+adapted; (c) “Distribute” means to reproduce, license, rent, lease, sell, broadcast, publicly display, transmit or otherwise distribute; (d)”Open Game Content” means the game mechanic and includes the methods, procedures, 
+processes and routines to the extent such content does not embody the Product Identity and is an enhancement over the prior art and any additional content clearly identified as Open Game Content by the Contributor, and 
+means any work covered by this License, including translations and derivative works under copyright law, but specifically excludes Product Identity. (e) “Product Identity” means product and product line names, logos and 
+identifying marks including trade dress; artifacts; creatures characters; stories, storylines, plots, thematic elements, dialogue, incidents, language, artwork, symbols, designs, depictions, likenesses, formats, poses, concepts, 
+themes and graphic, photographic and other visual or audio representations; names and descriptions of characters, spells, enchantments, personalities, teams, personas, likenesses and special abilities; places, locations, 
+environments, creatures, equipment, magical or supernatural abilities or effects, logos, symbols, or graphic designs; and any other trademark or registered trademark clearly identified as Product identity by the owner of the 
+Product Identity, and which specifically excludes the Open Game Content; (f) “Trademark” means the logos, names, mark, sign, motto, designs that are used by a Contributor to identify itself or its products or the associated 
+products contributed to the Open Game License by the Contributor (g) “Use”, “Used” or “Using” means to use, Distribute, copy, edit, format, modify, translate and otherwise create Derivative Material of Open Game Content. 
+(h) “You” or “Your” means the licensee in terms of this agreement.
+ 
+2. The License: This License applies to any Open Game Content that contains a notice indicating that the Open Game Content may only be Used under and in terms of this License. You must affix such a notice to any Open Game 
+Content that you Use. No terms may be added to or subtracted from this License except as described by the License itself. No other terms or conditions may be applied to any Open Game Content distributed using this License.
+ 
+3.Offer and Acceptance: By Using the Open Game Content You indicate Your acceptance of the terms of this License.
+ 
+4. Grant and Consideration: In consideration for agreeing to use this License, the Contributors grant You a perpetual, worldwide, royalty- ‐-free, non- ‐-exclusive license with the exact terms of this License to Use, the Open 
+Game Content.
+ 
+5.Representation of Authority to Contribute: If You are contributing original material as Open Game Content, You represent that Your Contributions are Your original creation and/or You have sufficient rights to grant the 
+rights conveyed by this License.
+ 
+6.Notice of License Copyright: You must update the COPYRIGHT NOTICE portion of this License to include the exact text of the COPYRIGHT NOTICE of any Open Game Content You are copying, modifying or distributing, 
+and You must add the title, the copyright date, and the copyright holder’s name to the COPYRIGHT NOTICE of any original Open Game Content you Distribute.
+ 
+7. Use of Product Identity: You agree not to Use any Product Identity, including as an indication as to compatibility, except as expressly licensed in another, independent Agreement with the owner of each element of that 
+Product Identity. You agree not to indicate compatibility or co- ‐-adaptability with any Trademark or Registered Trademark in conjunction with a work containing Open Game Content except as expressly licensed in another, 
+independent Agreement with the owner of such Trademark or Registered Trademark. The use of any Product Identity in Open Game Content does not constitute a challenge to the ownership of that Product Identity. The owner 
+of any Product Identity used in Open Game Content shall retain all rights, title and interest in and to that Product Identity.
+ 
+8. Identification: If you distribute Open Game Content You must clearly indicate which portions of the work that you are distributing are Open Game Content.
+ 
+9. Updating the License: Wizards or its designated Agents may publish updated versions of this License. You may use any authorized version of this License to copy, modify and distribute any Open Game Content originally 
+distributed under any version of this License.
+ 
+10. Copy of this License: You MUST include a copy of this License with every copy of the Open Game Content You Distribute.
+ 
+11. Use of Contributor Credits: You may not market or advertise the Open Game Content using the name of any Contributor unless You have written permission from the Contributor to do so.
+ 
+12. Inability to Comply: If it is impossible for You to comply with any of the terms of this License with respect to some or all of the Open Game Content due to statute, judicial order, or governmental regulation then You may 
+not Use any Open Game Material so affected.
+ 
+13. Termination: This License will terminate automatically if You fail to comply with all terms herein and fail to cure such breach within 30 days of becoming aware of the breach. All sublicenses shall survive the termination 
+of this License.
+ 
+14. Reformation: If any provision of this License is held to be unenforceable, such provision shall be reformed only to the extent necessary to make it enforceable.
+ 
+15. COPYRIGHT NOTICE
+Open Game License v 1.0a Copyright 2000, Wizards of the Coast, LLC.
+System Reference Document 5.1 Copyright 2016, Wizards of the Coast, Inc.; Authors Mike Mearls, Jeremy Crawford, Chris Perkins, Rodney Thompson, Peter Lee, James Wyatt, Robert J. Schwalb, Bruce R. Cordell, Chris Sims, 
+and Steve Townshend, based on original material by E. Gary Gygax and Dave Arneson.A World of Amazing Adventure Awaits!
+Join the Gooey Cube GM’s Society. It’s FREE! Access Videos, Articles, Resources, Freebies, and More!Player’s primer
+THE SECRETS OF ZYATHÉ
+This Player’s Primer is designed to provide a most basic overview of the world of Zyathé for 
+players wishing to garner some background information on the Wy’rded World. It contains 
+a general overview of the creation, the gods, the magic, the races, and the continents of the small 
+blue planet that whirls in the Void-space of the Suleón system. It also contains a short section 
+on the Republic of Zyranthea, which is where the first adventures that Gooey Cube has created 
+begin. There is much more information available to you, should you desire it, in the volumes of 
+the Player’s Guidebook which expand substantially on the information contained herein. Beyond 
+this, the Cyclopaedia Zyathica offers considerably more and, likely, your Game Master already has 
+a copy of such if he or she is running a game in the Wy’rded World. If you would like to get either 
+of these tomes, please visit our web site, GooeyCube.com. There are many other items of interest 
+there as well, including free content and other offerings. We sincerely hope that Zyathé provides 
+you with many mysterious, amazing, fearful, and wonderful adventures in the years to come!
+Printed in USA © 2019, Gooey Cube LLC. All rights reserved. 

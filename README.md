@@ -6,7 +6,8 @@ python-pdf-extraction-tools
 ## Dependency Packages ##
 pip install requests
 pip install pillow
-pip install pypdf
+pip install pypdf2
 pip install openai
+pip install pymupdf
 
 ```
