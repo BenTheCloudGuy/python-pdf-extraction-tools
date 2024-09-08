@@ -62,7 +62,7 @@ def upscale_images(output_dir,image_output_path):
  
     # Uri and API Key
     url = "https://api.claid.ai/v1-beta1/image/edit/upload"
-    apiKey = "42550c99003147ae9ba3fc9b851b9e05"
+    apiKey = "YOUR_API_KEY"
     upscaledImageName = image_output_path.split('/')[-1]
 
     # Create folder for upscaled images
@@ -82,6 +82,8 @@ def upscale_images(output_dir,image_output_path):
         'file': (upscaledImageName, open(image_output_path, 'rb')),
         'data': (None, '{"operations":{"resizing":{"width":200%},"background":{"remove":false}}}', 'application/json')
     }
+
+
 
 
 # Get the path to the output directory and create if does not exist
